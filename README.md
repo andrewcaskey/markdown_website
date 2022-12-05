@@ -5,11 +5,11 @@ layout: default
 ---
 
 
+
 # **Make a website with only Markdown** 
 ### Andrew Caskey ###
 
-
-
+### Site Preview [https://andrewcaskey.github.io/markdown_website/](https://andrewcaskey.github.io/markdown_website/) ###
 
 
 This tutorial will teach you how to use markdown on github to create a clean website without the use of a editor. This tutorial is made for students just starting out learning markdown and looking for potential applications. 
@@ -48,9 +48,9 @@ After uploading your markdown file you will see that github has already made som
 Next you need to head to settings section on github. This is found on the top bar all the right on the side. 
 
 
-After entering settings, scroll all the way to the bottom to the section **Github Pages**. 
+After entering settings, you'll see a tab on the left side of the screen, select **Pages**. 
 
-Select `master branch` as the `Source` option. 
+Under Branch select `main` as the `Source` option. 
 
 You can also choose a cool theme for your website. Just click on `Choose a theme` then pick just click the `Select theme` button to apply that theme to your repository. 
 
@@ -58,4 +58,6 @@ You can also choose a cool theme for your website. Just click on `Choose a theme
 To view your new website, click the link under the github pages section. 
 
 You can now view your live website!!!
+
+You can also point a custom domain and add custom css to your live website!
 
