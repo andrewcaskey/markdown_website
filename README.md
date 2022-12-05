@@ -11,9 +11,10 @@ layout: default
 
 
 
+
 This tutorial will teach you how to use markdown on github to create a clean website without the use of a editor. This tutorial is made for students just starting out learning markdown and looking for potential applications. 
 
-If this is your first time using markdown, check out https://www.markdowntutorial.com/ 
+If this is your first time using markdown, check out [https://www.markdowntutorial.com/](https://jekyllrb.com/docs/front-matter/)
 
 # Step 1: Edit your markdown file 
 
@@ -30,7 +31,7 @@ layout: default
 ```
 
 
-For more information about this check out https://jekyllrb.com/docs/front-matter/
+For more information about this check out [https://jekyllrb.com/docs/front-matter/](https://jekyllrb.com/docs/front-matter/)
 
 
 # Step 2: Create a github repository and upload files
